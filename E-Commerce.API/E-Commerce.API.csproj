@@ -15,4 +15,8 @@
         <Folder Include="Controllers"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\E-Commerce.Shared\E-Commerce.Shared.csproj"/>
+    </ItemGroup>
+
 </Project>
